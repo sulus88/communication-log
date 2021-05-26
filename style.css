@@ -5,3 +5,18 @@ body {
         font-size: 150%;
         margin: 5em 25%;
      }
+#firstmessage {
+background-color: yellowgreen;
+}
+#secondmessage {
+    background-color: yellow;
+}
+#thirdmessage {
+    background-color: orange
+}
+#fourthmessage {
+    background-color: violet;
+}
+#fifthmessage {
+    background-color: turquoise;
+}
